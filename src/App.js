@@ -1,13 +1,14 @@
 import "./styles.css";
+import Testing from "./testing";
 
-export default function App() {
+function App() {
   return (
     <div className="App">
       <h1>Hello CodeSandbox</h1>
       <h2>Start editing to see some magic happen!</h2>
-      <p>Testingggg</p>
-      <p>testing second codebox</p>
-      <p>third</p>
+      <Testing />
     </div>
   );
 }
+
+export default App;
