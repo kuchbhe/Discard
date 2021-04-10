@@ -7,6 +7,7 @@ export default function App() {
       <h2>Start editing to see some magic happen!</h2>
       <p>Testingggg</p>
       <p>testing second codebox</p>
+      <p>third</p>
     </div>
   );
 }
